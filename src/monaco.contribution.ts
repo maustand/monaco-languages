@@ -14,6 +14,7 @@ import './coffee/coffee.contribution';
 import './cpp/cpp.contribution';
 import './csharp/csharp.contribution';
 import './csp/csp.contribution';
+import './cobol/cobol.contribution';
 import './css/css.contribution';
 import './dart/dart.contribution';
 import './dockerfile/dockerfile.contribution';
